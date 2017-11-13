@@ -54,6 +54,8 @@ coverage.xml
 *.log
 *.csv
 *.dat
+*.txt
+*.json
 local_settings.py
 
 # Flask stuff:
